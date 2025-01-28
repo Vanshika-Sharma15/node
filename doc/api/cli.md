@@ -576,7 +576,7 @@ property throw an exception with the code `ERR_PROTO_ACCESS`.
 ### `--disable-sigusr1`
 
 <!-- YAML
-added: REPLACEME
+added: v23.7.0
 -->
 
 > Stability: 1.2 - Release candidate
@@ -999,7 +999,7 @@ top-level awaits, and print their location to help users find them.
 ### `--experimental-quic`
 
 <!--
-added: REPLACEME
+added: v23.7.0
 -->
 
 Enables the experimental `node:quic` built-in module.
